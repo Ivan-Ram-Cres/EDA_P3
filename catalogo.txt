@@ -1,0 +1,5 @@
+Ficciones Borjes Debolsillo 14 0 10 0 150
+La_Metamorfosis Kafka Debolsillo 5 0 10 1 300
+Soy_Leyenda Matheson Minotauro 6 0 10 2 180
+Tokio_Blues Murakami TUSQUETS 12 0 10 3 160
+Polaris Lovecraft Austral 9 0 10 4 100
